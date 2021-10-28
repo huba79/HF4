@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HF4-valutalista</string>
+    <string name="sellLabel">We sell:</string>
+    <string name="buyLabel">We buy:</string>
+</resources>
